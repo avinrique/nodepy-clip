@@ -1,0 +1,19 @@
+{
+  "name": "node-clip",
+  "version": "1.0.0",
+  "description": " Node.js module for monitoring clipboard changes in the system using a Python subprocess.",
+  "main": "src/ss.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ "clipboard",
+  "monitor",
+  "system",
+  "python",
+  "nodejs"],
+  "author": "Avinrique",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
+}
